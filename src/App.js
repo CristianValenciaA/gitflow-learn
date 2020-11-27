@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 
+import {version} from '../package.json'
+
 function App() {
   return (
     <div className="App">
@@ -15,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          version del programa: {version}
         </a>
       </header>
     </div>
