@@ -19,6 +19,13 @@ function App() {
         >
           version del programa: {version}
         </a>
+        <p>
+          Para el profe ale, Saludos!
+        </p>
+        <spam>
+          nv
+        </spam>
+        
       </header>
     </div>
   );
